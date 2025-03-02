@@ -16,7 +16,6 @@ This Leo program, `compliant_token.aleo`, implements a token with KYC/AML enforc
 
 ## Deployment Instructions
 1. **Prerequisites**:
-   - Rust: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
    - Leo: `cargo install leo-lang`
    - Credits: `faucet.testnet3.aleo.network`.
 2. **Setup**:
